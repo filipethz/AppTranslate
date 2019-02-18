@@ -1,0 +1,8 @@
+package com.example.android.miwok;
+
+import android.os.Bundle;
+
+class AppCompatActivity {
+    public void onCreate(Bundle savedInstanceState) {
+    }
+}
